@@ -1,4 +1,9 @@
 # Requisitos-funcionais-não-funcionais-e-domínio
+# Nome: Paola Beatriz Gonçalves Ribeiro 
+# RA:2039403
+# Instituição: UNIMAR (Universidade de Marilía)
+# Curso: 1° C ADS
+# Professor: Valdir
 
 # Cenário:
 
